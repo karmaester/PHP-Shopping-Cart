@@ -1,76 +1,49 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# PHP Shopping Cart
 
-# Project Name
+- Shopping cart
 
-> One paragraph statement about the project.
+![screenshot](images/screenshot1.png)
+![screenshot](images/screenshot2.png)
+![screenshot](images/screenshot3.png)
 
-![screenshot](./app_screenshot.png)
+## :hammer: Built With
 
-Additional description about the project and its features.
+- PHP
+- HTML
+- MYSQL
 
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+## :construction_worker: Getting Started
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
 ### Setup
 
-### Install
+- Open the console
+- Download or git clone git@github.com:karmaester/PHP-Shopping-Cart.git
+- cd PHP-Shopping-Cart
 
-### Usage
+## :bust_in_silhouette: Author
 
-### Run tests
+👤 **Khristian Rojas**
 
-### Deployment
+- Github: [@githubhandle](https://github.com/karmaester)
+- Twitter: [@twitterhandle](https://twitter.com/karmaendlich)
+- Linkedin: [linkedin](https://www.linkedin.com/in/khristian-rojas/)
 
+## 🤝 :raised_hand: :raised_hand: Contributing
 
+Contributions, issues and feature requests are welcome!
 
-## Authors
+Feel free to check the [issues page](https://github.com/karmaester/Restaurant-JS/issues).
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
-
-## Show your support
+## :muscle: Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## :grey_exclamation: Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Webslessons [tutorial](https://www.webslesson.info/2016/08/simple-php-mysql-shopping-cart.html).
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project is [MIT](https://opensource.org/licenses/MIT) licensed.
